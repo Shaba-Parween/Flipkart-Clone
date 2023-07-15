@@ -28,3 +28,22 @@
 - Cart Add/Remove Items
 - Wishlist Add/Remove Items
 
+## 🏁 Getting Started
+
+To get started with the project, follow these steps:
+
+1. Clone the repository.
+2. Install the dependencies.
+3. Configure the environment variables.
+4. Start the backend server using `npm run dev`.
+5. Start the frontend server using `npm start`.
+
+
+
+<h2>📬 Contact</h2>
+If you want to contact me, you can reach me through below handles.
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaba-parween-6128ba255)
+
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shabaparween772@gmail.com)
+
