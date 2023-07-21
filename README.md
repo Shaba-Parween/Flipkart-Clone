@@ -35,7 +35,7 @@ To get started with the project, follow these steps:
 1. Clone the repository.
 2. Install the dependencies.
 3. Configure the environment variables.
-4. Start the backend server using `npm run dev`.
+4. Start the backend server using `npm start`.
 5. Start the frontend server using `npm start`.
 
 
